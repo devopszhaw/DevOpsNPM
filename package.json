@@ -1,15 +1,16 @@
 {
-  "name": "devopsnodetest",
+  "name": "npmtest",
   "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
     "animejs": "^3.2.2",
-    "chart.js": "^4.4.6"
+    "chart.js": "^4.5.1"
   }
 }
